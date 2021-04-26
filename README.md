@@ -4,7 +4,7 @@ Deploy live with Firebase!
 
 https://netflix-clone-3e787.web.app/
 
-![React App and 1 more page - Personal - Microsoft​ Edge 4_26_2021 1_29_08 PM (2)](https://user-images.githubusercontent.com/78442208/116147196-4650c080-a694-11eb-8f9a-97771bead29d.png)
+![React App and 1 more page - Personal - Microsoft​ Edge 4_26_2021 1_29_08 PM (3)](https://user-images.githubusercontent.com/78442208/116147351-78622280-a694-11eb-84ea-7ed0e44cec44.png)
 
 
 # Getting Started with Create React App
